@@ -39,9 +39,7 @@ If you can't run the project, you can visit here: https://saaransht.github.io/Al
 ![Path Finding](https://imgur.com/m0nlZtu.png)
 *Path Finding*
 
-## Contacts
-If you have any questions regarding the projects, you can contact any one of us:
-+ Saaransh Tiwari ([saaransht](https://github.com/saaransht)): tansh2612@gmail.com
+
 
 
 Fellow IUers are very welcome!
