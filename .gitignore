@@ -1,0 +1,6 @@
+.vscode
+.idea
+*.iml
+.env
+*.mp4
+video/
